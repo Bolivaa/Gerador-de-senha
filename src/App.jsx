@@ -41,7 +41,7 @@ function App() {
           onChange={(e) => setTamanho(e.target.valueAsNumber)}
         />
       </div>
-      <div>
+      <div>//dinah
         <button className='botao' onClick={gerarSenha}>Gerar Senha</button>
       </div>
       {senha && (
