@@ -27,8 +27,8 @@ function App() {
     alert('Senha copiada para a área de transferência!');
   };
 
-  return (
-    <div>
+  return ( 
+    <div> //lais
       <h1 >GERADOR DE SENHA!!</h1>
       <img className="logo1" src={logo} alt="logo" />
       <img src={logo} alt="logo" /> 
