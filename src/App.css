@@ -1,0 +1,73 @@
+
+body{ /*lucas*/
+    background-color: black  ;
+}
+@font-face {/*lucas*/
+    font-family: Transformers;
+    src: url(assets/fonts/Transformers\ Movie.ttf);
+}
+.logo1{/*lucas*/
+    position: fixed;
+    display: flex;
+    width: 80px;
+    margin-left: 70%;
+    margin-top: -6.9%;
+}
+
+img{/*lucas*/
+    position: fixed;
+    display: flex;
+    width: 80px;
+    margin-left: 24%;
+    margin-top: -7%;
+}
+
+h1{ /*lucas*/ 
+    margin-top: 12%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    font-size: 50px;
+    font-family: Transformers;
+}  
+
+.tamanho{ /*lucas*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff; 
+}
+h2{/*lucas*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff; 
+    color: #ffffff;
+}
+
+p{/*lucas*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff; 
+}
+
+.botao{/*lucas*/
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: #363333;
+   border: none;
+   padding: 10px;
+   cursor: pointer;
+   margin-left: 47%;
+   border-radius: 20px;
+   margin-top: 1.5%;
+}
+.botao:hover{
+    color: black;
+    background-color: aquamarine;
+}
+.input{/*lucas*/
+   margin-left: 44%;
+   border-radius: 20px; 
+}
